@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BLEBeacon</string>
+    <string name="bluetooth_disabled">Bluetooth is disabled</string>
+    <string name="default_address">00:00:00:00:00:00</string>
+</resources>
